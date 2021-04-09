@@ -1,0 +1,1 @@
+inoremap !html snippet 
